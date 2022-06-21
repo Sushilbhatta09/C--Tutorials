@@ -59,7 +59,7 @@ int main()
 {
 
     // declare a object
-    car car1("sushil",90),car2(car1);// object declare garda constructor call hunxa aafai
+    car car1("susil",90),car2(car1);// object declare garda constructor call hunxa aafai
    car1.input();
     //int eg=car1.car_size;
     //cout<<"Size :"<<eg;
