@@ -30,7 +30,7 @@ class car
 
    ~car()
    {
-    cout<<"\n Object is destroyed\n";
+    cout<<"\n\tObject is destroyed\n";
    }
 
     void input ()// member function
