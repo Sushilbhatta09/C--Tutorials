@@ -24,7 +24,7 @@ class car
    {//obj=car1
    car_size=obj.car_size;
     strcpy(car_name,obj.car_name);
-  // car2.name=car1.name
+  // car2.name=car1.nam
     
    }
 
